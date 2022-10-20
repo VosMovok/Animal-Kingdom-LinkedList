@@ -24,6 +24,7 @@ public class run {
         System.out.println(mbee.get(0).ediblePart());
         System.out.println();
 
+
         System.out.println(red.get(0).getPlantName());
         System.out.println("--------------------------------");
         red.get(0).printAll();
